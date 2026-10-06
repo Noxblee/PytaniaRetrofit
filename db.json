@@ -1,39 +1,38 @@
-{
-  "pytania":[
-    {
-      "tresc" : "Kim jest Hollow Knight w grze 'Hollow Knight'",
-      "odpa" : "Głównym bohaterem",
-      "odpb" : "Bossem",
-      "odpc" : "nie ma takiej postaci",
-      "poprawna" : 2
-    },
-    {
-      "tresc" : "Kim jest Hornet w grze 'Hollow Knight: Silksong'",
-      "odpa" : "Głównym bohaterem",
-      "odpb" : "Bossem",
-      "odpc" : "nie ma takiej postaci",
-      "poprawna" : 1
-    },
-    {
-      "tresc" : "Czym są Gurbs w 'Hollow Knight'",
-      "odpa" : "postaciami pobocznymi",
-      "odpb" : "monetami",
-      "odpc" : "dodatkowymi umiejętnościami",
-      "poprawna" : 1
-    },
-    {
-      "tresc" : "Czym są Charms w 'Hollow Knight'",
-      "odpa" : "postaciami pobocznymi",
-      "odpb" : "monetami",
-      "odpc" : "dodatkowymi umiejętnościami",
-      "poprawna" : 3
-    },
-    {
-      "tresc" : "Czym są Geo w 'Hollow Knight'",
-      "odpa" : "postaciami pobocznymi",
-      "odpb" : "monetami",
-      "odpc" : "dodatkowymi umiejętnościami",
-      "poprawna" : 2
-    }
-  ]
-}
+[
+  {
+    "tresc" : "Kim jest Hollow Knight w grze 'Hollow Knight'",
+    "odpa" : "Głównym bohaterem",
+    "odpb" : "Bossem",
+    "odpc" : "nie ma takiej postaci",
+    "poprawna" : 2
+  },
+  {
+    "tresc" : "Kim jest Hornet w grze 'Hollow Knight: Silksong'",
+    "odpa" : "Głównym bohaterem",
+    "odpb" : "Bossem",
+    "odpc" : "nie ma takiej postaci",
+    "poprawna" : 1
+  },
+  {
+    "tresc" : "Czym są Gurbs w 'Hollow Knight'",
+    "odpa" : "postaciami pobocznymi",
+    "odpb" : "monetami",
+    "odpc" : "dodatkowymi umiejętnościami",
+    "poprawna" : 1
+  },
+  {
+    "tresc" : "Czym są Charms w 'Hollow Knight'",
+    "odpa" : "postaciami pobocznymi",
+    "odpb" : "monetami",
+    "odpc" : "dodatkowymi umiejętnościami",
+    "poprawna" : 3
+  },
+  {
+    "tresc" : "Czym są Geo w 'Hollow Knight'",
+    "odpa" : "postaciami pobocznymi",
+    "odpb" : "monetami",
+    "odpc" : "dodatkowymi umiejętnościami",
+    "poprawna" : 2
+  }
+]
+
